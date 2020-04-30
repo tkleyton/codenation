@@ -22,4 +22,4 @@ venv/lib/python3.7/distutils/__init__.py:4
 
 -- Docs: https://docs.pytest.org/en/latest/warnings.html
 ---- generated xml file: /home/kleyton/codenation/data-science-1/output.xml ----
-======================== 5 passed, 2 warnings in 0.62s =========================
+======================== 5 passed, 2 warnings in 0.63s =========================
