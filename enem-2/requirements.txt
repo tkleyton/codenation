@@ -3,10 +3,9 @@ jupyter
 numpy
 pandas
 matplotlib
-scipy
 seaborn
-statsmodels
 scikit-learn
-loguru
 jupyter_contrib_nbextensions
 autopep8
+plotly
+yellowbrick
