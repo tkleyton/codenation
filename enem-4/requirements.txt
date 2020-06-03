@@ -1,0 +1,13 @@
+pytest
+jupyter
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+plotly
+statsmodels
+scikit-learn
+loguru
+jupyter_contrib_nbextensions
+autopep8
